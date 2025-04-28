@@ -12,5 +12,5 @@ Este repositorio fue creado para documentar parte de los trabajos realizados en 
 - Ejercicios desarrollados durante la cursada.
 
 ## Contacto
-- LinkedIn: [tu perfil de LinkedIn]
-- Email: [tuemail@example.com]
+- LinkedIn: (https://www.linkedin.com/in/ricardo-landa12/)
+- Email: ricardolanda50@gmail.com
